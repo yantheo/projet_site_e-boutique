@@ -14,3 +14,7 @@ footer{ background: #000; color: white; text-align: center; padding: 7px 0;}
 /*----------------------------------------------------GENERAL*/
 .erreur{ background: #ff0000; padding: 5px; margin: 5px; }
 .validation{ background: #669933; padding: 5px; margin: 5px; }
+
+.boutique-gauche ul li a:hover{background: #04baf6; color: #fff; }
+
+.boutique-produit:hover{ background: #c0c0c0; }
